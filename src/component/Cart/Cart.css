@@ -1,0 +1,27 @@
+.cart{
+    border: 1px solid saddlebrown;
+    border-radius: 10px;
+}
+
+.cart-bottles{
+display: grid;
+grid-template-columns: repeat(3,1fr);
+gap: 20px;
+    
+}
+
+.cart-bottle{
+
+    background-color: cadetblue;
+    margin: 20px ;
+    padding: 10px;
+    font-size: medium;
+    font-weight: bold;
+    border-radius: 10px;
+    color: white;
+
+}
+
+.button{
+    margin-left: 5px;
+}

@@ -1,0 +1,103 @@
+[
+    {
+      "id": 1,
+      "name": "AquaFresh",
+      "volume_ml": 500,
+      "material": "Plastic",
+      "color": "Clear",
+      "manufacturer": "AquaCo",
+      "price_usd": 1.25,
+      "available": true
+    },
+    {
+      "id": 2,
+      "name": "HydroMax",
+      "volume_ml": 1000,
+      "material": "Stainless Steel",
+      "color": "Silver",
+      "manufacturer": "HydroCorp",
+      "price_usd": 15.99,
+      "available": true
+    },
+    {
+      "id": 3,
+      "name": "EcoPure",
+      "volume_ml": 750,
+      "material": "Glass",
+      "color": "Green",
+      "manufacturer": "EcoLife",
+      "price_usd": 9.50,
+      "available": false
+    },
+    {
+      "id": 4,
+      "name": "SportStream",
+      "volume_ml": 650,
+      "material": "Aluminum",
+      "color": "Blue",
+      "manufacturer": "ActiveGear",
+      "price_usd": 12.30,
+      "available": true
+    },
+    {
+      "id": 5,
+      "name": "PureSip",
+      "volume_ml": 500,
+      "material": "Plastic",
+      "color": "White",
+      "manufacturer": "CleanWater Inc.",
+      "price_usd": 1.50,
+      "available": true
+    },
+    {
+      "id": 6,
+      "name": "FreshFlow",
+      "volume_ml": 1500,
+      "material": "Plastic",
+      "color": "Clear",
+      "manufacturer": "FlowTech",
+      "price_usd": 2.75,
+      "available": true
+    },
+    {
+      "id": 7,
+      "name": "CrystalClear",
+      "volume_ml": 600,
+      "material": "Glass",
+      "color": "Clear",
+      "manufacturer": "GlassWorks",
+      "price_usd": 7.80,
+      "available": false
+    },
+    {
+      "id": 8,
+      "name": "SteelGuard",
+      "volume_ml": 800,
+      "material": "Stainless Steel",
+      "color": "Black",
+      "manufacturer": "SteelSafe",
+      "price_usd": 18.20,
+      "available": true
+    },
+    {
+      "id": 9,
+      "name": "UltraChill",
+      "volume_ml": 700,
+      "material": "Plastic",
+      "color": "Red",
+      "manufacturer": "ChillCo",
+      "price_usd": 3.99,
+      "available": true
+    },
+    {
+      "id": 10,
+      "name": "AquaElite",
+      "volume_ml": 1200,
+      "material": "Aluminum",
+      "color": "Gold",
+      "manufacturer": "EliteHydration",
+      "price_usd": 20.50,
+      "available": false
+    }
+  ]
+  
