@@ -70,10 +70,10 @@ const addToLs = (id) => {
 }
 
 
-// const removeFromLS = id => {
-//     const cart = getPreviousCart();
-//     const remaining = cart.filter(idx => idx !== id)
-//     setLocalS(remaining);
-// }
+const removeFromLS = id => {
+    const cart = getPreviousCart();
+    const remaining = cart.filter(idx => idx !== id)
+    setLocalS(remaining);
+}
 
-export { addToLs, getPreviousCart}
+export { addToLs, getPreviousCart,removeFromLS}
